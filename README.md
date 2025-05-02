@@ -21,3 +21,19 @@ Aquí encontraras el código fuente de la app web de citas
 
 Una aplicación web cuyo objetivo es crear un sitio para conocer personas
 
+Imagenes estado actual
+
+![Descripción de la imagen](./imagesScreen/img1.png)
+
+![Descripción de la imagen](./imagesScreen/img2.png)
+
+![Descripción de la imagen](./imagesScreen/img3.png)
+
+![Descripción de la imagen](./imagesScreen/img4.png)
+
+![Descripción de la imagen](./imagesScreen/img5.png)
+
+
+
+
+
